@@ -52,3 +52,5 @@ public class metodo_montecarlo_hilos {
         System.out.println("Tiempo: " + (end - start) + " ms");
     }
 }
+
+

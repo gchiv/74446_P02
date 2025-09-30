@@ -22,3 +22,5 @@ public class metodo_montecarlo {
         System.out.println("Tiempo: " + (end - start) + " ms");
     }
 }
+
+
